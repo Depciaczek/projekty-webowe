@@ -1,5 +1,4 @@
 # projekty-webowe#
-Moje Projekty Frontendowe – Angular i React
 
 Witaj!  
 To repozytorium zawiera moje projekty stworzone w Angularze i React, które prezentują moje umiejętności programistyczne oraz znajomość tych technologii.
