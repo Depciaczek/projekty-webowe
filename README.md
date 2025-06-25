@@ -16,5 +16,5 @@ To repozytorium zawiera moje projekty stworzone w Angularze i React, które prez
 
 ## Projekt React
 
-- **Podstawowa aplikacja React**  
-  Aplikacja z podstawowymi informacjami o React, stworzona w React, pokazująca wykorzystanie komponentów i JSX.
+- **ReactEssentials**  
+  Aplikacja z podstawowymi informacjami o React, stworzona w React, pokazująca wykorzystanie komponentów i JSX. Stworzona na potrzeby nauki frameworka.
