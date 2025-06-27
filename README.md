@@ -7,7 +7,7 @@ To repozytorium zawiera moje projekty stworzone w Angularze i React, które prez
 
 - **Portfolio w Angularze**  
   Moje osobiste portfolio stworzone w Angularze, pokazujące strukturę i style.
-[📦 Pobierz moje portfolio](./PortfolioMikołaj.zip)
+[📦 Pobierz moje portfolio](./PortfolioMikolaj.zip)
 
 - **Tabela pierwiastów i filtrowanie**  
   Projekt na potrzeby rekrutacji – aplikacja z tabelą pierwiastków chemicznych oraz funkcją filtrowania danych.
